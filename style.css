@@ -1,0 +1,87 @@
+body{
+
+  background-color: bisque;
+}
+
+#title
+{
+  font-size: 45px;
+  border-bottom: 5px;
+  border-color: black;
+  border-style: solid;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  
+
+}
+
+theNav{
+
+  /*padding: 70px;
+  border-color: black;
+  border: 3px;
+  font-family: 'Franklin Gothic Medium';
+  font-size: 20px;*/
+
+  position: fixed;
+  top: 100px;
+  height: 7%;
+  width: 100%;
+  padding: 100;
+  background-color:  darkseagreen;
+
+
+  
+
+}
+
+#pic1{
+  width:40em;
+  border: 8px solid;
+  margin-top: 1cm;
+  border-color: rgb(178, 142, 142);
+
+}
+
+#pic2{
+  height: 26em;
+  width:40em;
+  
+  border: 8px solid;
+  border-color: rgb(178, 142, 142);
+
+}
+
+
+
+#first{
+  position: absolute;
+  top: 740px;
+  left: 710px;
+}
+
+#facts{
+ margin-bottom: 40px;
+ border-radius: 30%;
+}
+.generator
+{
+  padding-top: 5px;
+  border: 5px;
+  border-width: 20px;
+  border-color: black;
+  border-style: solid;
+}
+
+
+#about{
+
+  margin-top: 2cm;
+}
+
+.button{
+border-radius: 20%;
+  border-width: 4px;
+  border-color: darkseagreen;}
+
